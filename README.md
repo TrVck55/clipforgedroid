@@ -1,5 +1,6 @@
 # ClipForge AI (Android)
 
+
 Kotlin + Jetpack Compose Android app that turns long videos into short clips using AI (transcription + LLM) and FFmpeg.
 
 **Package:** `dev.clipforge.app`  
