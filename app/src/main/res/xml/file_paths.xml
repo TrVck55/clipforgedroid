@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="clip_cache" path="." />
+    <files-path name="clip_files" path="." />
+    <!-- Rendered clips land in getExternalFilesDir("ClipForge") -->
+    <external-files-path name="clip_output" path="ClipForge/" />
+</paths>
